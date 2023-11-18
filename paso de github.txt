@@ -1,0 +1,14 @@
+descargar git hub
+regisrtarse en git hub
+abrimos la consola de git hub 
+// dentro de la consola
+//
+pwd //para consultar donde estamos
+//
+cd .. //para retroceder o salid de la carpeta
+// hasta estar en la el lugar donde este nuestro proyecto
+dir //para consulatar las carpetas que hay en esta ubicacion
+cd nomCarpeta //para entrar a la carpeta
+
+
+C:\Users\DOCENTE\Downloads\SESION12-LP2

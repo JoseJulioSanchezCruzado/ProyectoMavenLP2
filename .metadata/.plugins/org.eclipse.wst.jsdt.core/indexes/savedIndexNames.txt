@@ -1,0 +1,6 @@
+INDEX VERSION 1.3+C:\Users\DOCENTE\Downloads\SESION12-LP2\.metadata\.plugins\org.eclipse.wst.jsdt.core\indexes
+1346909386.index
+2785366932.index
+3003575000.index
+3550796620.index
+1392963675.index
